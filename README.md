@@ -9,9 +9,9 @@ La bibliothèque MDB (myDataBase) est une bibliothèque créée pour faciliter l
 Le principal avantage qu'elle offre est que vous n'avez pas besoin de vous occuper de la gestion des fichiers contenants les données, MDB fait cela pour vous.
 
 ## Installation
-Executez la commade :  
-`git clone [github link]`  
-Vous pouvez ensuite commencer à utiliser la bibliothèque MDB.
+Téléchargez la bibliothèque selon votre système :  
+* [Window (64 bits)](https://rewax61.alwaysdata.net/MDB-lib_Win_64.zip)
+* [Linux (64 bits)](https://rewax61.alwaysdata.net/MDB-lib_Linux_64.zip)
 
 ## Liste des instructions disponibles
 
