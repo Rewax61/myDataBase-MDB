@@ -1,6 +1,6 @@
 # **MDB**
 
-<img src="./logo.ico" alt="logo" width="80"> <!--Logo-->  
+<img src="https://rewax61.alwaysdata.net/logo.ico" alt="logo" width="80"> <!--Logo-->  
 
 *Developed by **Rewax***
 
