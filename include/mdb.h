@@ -30,7 +30,6 @@ int MDB_GetNumOfElementsInCol(char const *database, char const *table, char cons
 int MDB_GetItemInCol(char const *database, char const *table, char const *column_name, int const element_id, char *__buffer_dest);
 
 /* Removing functions */
-int remove_directory(char const *name);
 int MDB_RemoveDataBase(char const *database);
 int MDB_RemoveTable(char const *database, char const *table);
 
