@@ -1,6 +1,6 @@
 # **MDB**
 
-<img src="https://rewax61.alwaysdata.net/logo.ico" alt="logo" width="80"> <!--Logo-->  
+<img src="https://rewax61.alwaysdata.net/MDB/logo.ico" alt="logo" width="80"> <!--Logo-->  
 
 *Developed by **Rewax***
 
@@ -9,8 +9,8 @@ The MDB library (myDataBase) is a library created to facilitate the management o
 
 ## Installation
 Download the library according to your system:  
-* [Window (64 bits)](https://rewax61.alwaysdata.net/MDB-lib_Win_64.zip)
-* [Linux (64 bits)](https://rewax61.alwaysdata.net/MDB-lib_Linux_64.zip)
+* [Window (64 bits)](https://rewax61.alwaysdata.net/MDB/MDB-lib_Win_64.zip)
+* [Linux (64 bits)](https://rewax61.alwaysdata.net/MDB/MDB-lib_Linux_64.zip)
 
 ## List of available functions
 
