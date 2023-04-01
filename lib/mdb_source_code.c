@@ -211,7 +211,6 @@ int MDB_CreateTable(char const *database, char const *name, char **columns, int 
 
 int MDB_AddToCol(char const *database, char const *table, char const *column_name, char const *value) {
     int i;
-    int res;
     if (variableVerified == False) {
         errno = INIT_NOT_DONE;
         return -1;
@@ -722,7 +721,6 @@ int MDB_GetItemInCol(char const *database, char const *table, char const *column
 }
 
 int MDB_RemoveDataBase(char const *database) {
-    int i;
     if (variableVerified == False) {
         errno = INIT_NOT_DONE;
         return -1;
@@ -760,7 +758,6 @@ int MDB_RemoveDataBase(char const *database) {
 }
 
 int MDB_RemoveTable(char const *database, char const *table) {
-    int i;
     if (variableVerified == False) {
         errno = INIT_NOT_DONE;
         return -1;
